@@ -7,6 +7,7 @@ In July 2019 we [produced a map](https://www.bbc.co.uk/news/uk-england-48801235)
 
 ## Get the data
 
+* CSV: [England squad members by position and place of birth](https://github.com/BBC-Data-Unit/womens-world-cup/blob/master/engwomens.csv)
 
 ## Quotes and interviews
 
