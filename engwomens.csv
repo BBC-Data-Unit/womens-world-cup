@@ -1,0 +1,37 @@
+region,position,players
+East Midlands,Defender,1
+North East,Defender,3
+North West,Defender,2
+South East,Defender,1
+West Midlands,Defender,0
+Yorkshire & Humber,Defender,1
+South West,Defender,0
+London,Defender,0
+East,Defender,0
+East Midlands,Forward,0
+North East,Forward,0
+North West,Forward,3
+South East,Forward,2
+West Midlands,Forward,0
+Yorkshire & Humber,Forward,1
+South West,Forward,0
+London,Forward,0
+East,Forward,0
+East Midlands,Goalkeeper,1
+North East,Goalkeeper,1
+North West,Goalkeeper,1
+South East,Goalkeeper,0
+West Midlands,Goalkeeper,0
+Yorkshire & Humber,Goalkeeper,0
+South West,Goalkeeper,0
+London,Goalkeeper,0
+East,Goalkeeper,0
+East Midlands,Midfielder,1
+North East,Midfielder,1
+North West,Midfielder,2
+South East,Midfielder,0
+West Midlands,Midfielder,1
+Yorkshire & Humber,Midfielder,1
+South West,Midfielder,0
+London,Midfielder,0
+East,Midfielder,0
