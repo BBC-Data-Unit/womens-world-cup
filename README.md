@@ -2,12 +2,13 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/A6AE/production/_107707624_england_womens_football_640_3x-nc.png)
 
-In July 2019 we [produced a map](https://www.bbc.co.uk/news/uk-england-48801235) showing where the England Women's World Cup squad were born. The map showed that the Lionesses were a distinctly northern group, with the majority of the 23-strong squad born in north-west or north-east England or Yorkshire. Not a single player was born in London, the East or the South West of England, with just three born in the South East.
+In July 2019 we [produced a map](https://www.bbc.co.uk/news/uk-england-48801235) showing where the England Women's World Cup squad were born. The map showed that the Lionesses were a distinctly northern group, with the majority of the 23-strong squad born in north-west or north-east England or Yorkshire. Not a single player was born in London, the East or the South West of England, with just three born in the South East. Karen Bardsley, of course, was born in California but as it’s her links to Stockport that mean she plays for England, we’ve counted her towards the North West.
 
 
 ## Get the data
 
 * CSV: [England squad members by position and place of birth](https://github.com/BBC-Data-Unit/womens-world-cup/blob/master/engwomens.csv)
+* Source: http://www.thefa.com/england/womens-seniors/squad/
 
 ## Quotes and interviews
 
